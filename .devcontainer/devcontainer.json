@@ -11,7 +11,8 @@
 	"extensions": [
 		"yzhang.markdown-all-in-one",
 		"streetsidesoftware.code-spell-checker",
-		"marp-team.marp-vscode"
+		"marp-team.marp-vscode",
+		"shd101wyy.markdown-preview-enhanced"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
