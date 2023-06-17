@@ -52,15 +52,16 @@ style: |
 
 # Agenda
 
-- Splunk components
+- Splunk Enterprise introduction
+- Quiz 1
 - Getting data in
-- Quiz!
+- Quiz 2
 - Getting data out
 - Assignments
 
 --- 
 
-# Splunk basic concepts
+# Splunk Enterprise introduction
 
 ---
 
